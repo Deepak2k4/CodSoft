@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family:  "Courier New", Courier, monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #beb1b1;
+    color: rgb(13, 12, 13);
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 70px;
+    letter-spacing: 1.0;
+    font-weight: 700;
+}
+
+header h2 {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+header h4{
+    background-color: cadetblue;
+    color: #a90606;
+}
+
+
+#image {
+    
+    max-width: 300%;
+    height: auto;
+    width: 300%;
+    border-radius: 9px;
+}
+
+img { 
+    border: 5px solid #3c2626;
+    display: block;
+}
+
+#tribute-info,
+#tribute-link,
+.quotes {
+    margin: 40px;
+}
+
+h3 {
+    font-size: 30px;
+    
+}
+
+p,
+ul li {
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul li {
+    padding: 10px;
+    list-style-type: square;
+}
+
+.quotes {
+    border: 5px solid rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+
+hr {
+    border: 2px solid rgb(124, 19, 19);
+    margin: 20px;
+}
+
+a {
+    margin: 20px;
+    color: rgb(112, 21, 232);
+    padding-bottom: 20px;
+    font-weight: bolder;
+}
