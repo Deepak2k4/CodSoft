@@ -174,7 +174,6 @@ li {
     margin-left: 80px;
     justify-content: space-evenly;
     width: 80%;
-    /* Full width */
     background-color: white;
 }
 
@@ -205,8 +204,6 @@ li {
     width: 75%;
     background-color: #808080;
 }
-
-
 
 
 
@@ -262,7 +259,7 @@ li {
 
 .project-title {
     margin-bottom: var(--bottom-margin);
-}
+} 
 
 .project-details {
     margin-bottom: var(--bottom-margin);
@@ -418,7 +415,6 @@ input[type="email" i] {
 .thirdSection h3 {
     font-size: 2rem;
 }
-
 
 
 
