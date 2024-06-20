@@ -1,7 +1,8 @@
 # CodSoft
-#tributepage
+#Portfolio
  
-![web1](https://github.com/Deepak2k4/CodSoft/assets/154690787/5e75935f-f6ea-4078-8126-23820bd5f73b)
-![web2](https://github.com/Deepak2k4/CodSoft/assets/154690787/64623f2c-610b-4d2b-afaf-5b621f755462)
-![web3](https://github.com/Deepak2k4/CodSoft/assets/154690787/7dd8ef7c-5824-43c8-a4e1-e95beaa22066)
-![web4](https://github.com/Deepak2k4/CodSoft/assets/154690787/ea12ca6b-dbcd-4579-963d-e6b5203760c0)
+![p2](https://github.com/Deepak2k4/CodSoft/assets/154690787/9e7bdafa-4a5d-4f3e-9d0a-517ef73982c5)
+![p1](https://github.com/Deepak2k4/CodSoft/assets/154690787/9daa5404-5a45-4fd4-87cd-ef1bb8d80fa9)
+![p5](https://github.com/Deepak2k4/CodSoft/assets/154690787/9929b8bb-fa6e-4f9a-aa88-57d2ae4c5f88)
+![p4](https://github.com/Deepak2k4/CodSoft/assets/154690787/06d3486e-72d8-464e-9dd2-32bd383bbaec)
+![p3](https://github.com/Deepak2k4/CodSoft/assets/154690787/a7d404cb-1f27-4dfb-b9bc-6ba893715204)
